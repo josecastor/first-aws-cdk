@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Welcome to your CDK Python project!
 
@@ -56,3 +57,7 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+=======
+# first_aws_cdk
+Create bucket s3 with aws cdk integration github actions
+>>>>>>> 2853c6eb2957f66a25570193a91a3079d5fd0a74
